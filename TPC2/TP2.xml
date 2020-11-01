@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE PR SYSTEM "pr.dtd">
+<PR>
+    <CABEÇALHO>
+        <KEYNAME KEYNAME=""/>
+        <TITLE TITLE=""/>
+        <SUBTITLE/>
+        <BEGINDATE BEGINDATE=""/>
+        <ENDDATE ENDDATE=""/>
+        <SUPERVISOR SUPERVISOR=""></SUPERVISOR>
+    </CABEÇALHO>
+    <WORKTEAM>
+        <ELEMENTO id="" NOME="" NUMERO="" EMAIL=""/>
+    </WORKTEAM>
+    <ABSTRACT></ABSTRACT>
+    <DELIVERABLES></DELIVERABLES>
+</PR>
