@@ -1,0 +1,44 @@
+{
+  "tarefasPendentes": [
+    {
+      "idTarefa": "1",
+      "descricao": " olá",
+      "responsavel": " olá",
+      "dataLimite": "olá "
+    },
+    {
+      "idTarefa": "2",
+      "descricao": " olá",
+      "responsavel": " olá",
+      "dataLimite": "olá "
+    }
+  ],
+  "tarefasResolvidas": [
+    {
+      "idTarefa": "",
+      "descricao": " olá",
+      "responsavel": " olá",
+      "dataLimite": "olá "
+    },
+    {
+      "idTarefa": "",
+      "descricao": " olá",
+      "responsavel": " olá",
+      "dataLimite": "olá "
+    }
+  ],
+  "tarefasCanceladas": [
+    {
+      "idTarefa": "",
+      "descricao": " olá",
+      "responsavel": " olá",
+      "dataLimite": "olá "
+    },
+    {
+      "idTarefa": "",
+      "descricao": " olá",
+      "responsavel": " olá",
+      "dataLimite": "olá "
+    }
+  ]
+}
